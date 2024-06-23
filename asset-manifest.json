@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%7Bnome_do_repositorio%7D/static/css/main.fcfbd859.css",
+    "main.js": "/%7Bnome_do_repositorio%7D/static/js/main.d015faab.js",
+    "static/media/article2.png": "/%7Bnome_do_repositorio%7D/static/media/article2.5e0567fbd31b2e9b3f43.png",
+    "static/media/article1.png": "/%7Bnome_do_repositorio%7D/static/media/article1.dd1dbcf3db18e69a56fe.png",
+    "static/media/article3.png": "/%7Bnome_do_repositorio%7D/static/media/article3.4a2923b0c00ebbc92c83.png",
+    "index.html": "/%7Bnome_do_repositorio%7D/index.html",
+    "main.fcfbd859.css.map": "/%7Bnome_do_repositorio%7D/static/css/main.fcfbd859.css.map",
+    "main.d015faab.js.map": "/%7Bnome_do_repositorio%7D/static/js/main.d015faab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcfbd859.css",
+    "static/js/main.d015faab.js"
+  ]
+}
